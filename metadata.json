@@ -1,0 +1,8 @@
+{
+  "name": "NICE TRY! — The Game That Hates You",
+  "description": "A brutally difficult, hilarious 2D troll platformer packed with deceptive traps, fake checkpoints, unexpected twists, and 50+ contextual death roasts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
